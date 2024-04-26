@@ -7,7 +7,9 @@
 -----------------------------------------------------------
             The official Windows File fUcKeR
 
-# quick description
+# Quick Description
 The setup is very easy, just install the files onto the
 correct thumb drive and you will be ready to go.
 or fuck up your own computer i don't really give a shit.
+
+# Commands
